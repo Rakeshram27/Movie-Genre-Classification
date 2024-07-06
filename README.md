@@ -35,17 +35,5 @@ In web browser, type: http://localhost/lstm/5000/
 
 <b>Results</b>
 
-Due to a lack of time, I haven't been able to compile comprehensive results. 
-
 - The F1 score achieved on the test set by the model in the code was 0.95.
 - The exact prediction accuracy achieved on the test set by the model in the code was 78%. 
-
-<b>Future Work</b>
-
-An interesting thought that came into my mind but I wasn't able to implement was to make this a multi-modal classification problem.
-
-We could use, say, the poster of the movie to use visual data along with the already present textual data to improve our classification accuracy. Though, I was not really sure about the mechanics of creating such a dataset and thus could act upon this idea.
-
-If I get the time in the future, I would love to explore the muti-modal classification idea more.
-
-Cheers.
